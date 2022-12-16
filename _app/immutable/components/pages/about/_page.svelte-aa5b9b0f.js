@@ -1,0 +1,5 @@
+import{S as P,i as q,s as F,k as u,q as n,a as V,l as d,m as _,r as p,h as a,c as B,n as G,b as c,D as i,B as w}from"../../../chunks/index-2ca793c0.js";function J(H){let e,y,f,r,b,h,s,v,l,x,A;return{c(){e=u("h1"),y=n("About"),f=V(),r=u("p"),b=n(`Hi! Just a passerby who's way too into vocaloid, games, and programming. In no
+  particular order.`),h=V(),s=u("p"),v=n("Font used: "),l=u("a"),x=n("IBM VGA 8x16"),A=n(` by
+  VileR`),this.h()},l(t){e=d(t,"H1",{});var o=_(e);y=p(o,"About"),o.forEach(a),f=B(t),r=d(t,"P",{});var E=_(r);b=p(E,`Hi! Just a passerby who's way too into vocaloid, games, and programming. In no
+  particular order.`),E.forEach(a),h=B(t),s=d(t,"P",{});var m=_(s);v=p(m,"Font used: "),l=d(m,"A",{href:!0});var I=_(l);x=p(I,"IBM VGA 8x16"),I.forEach(a),A=p(m,` by
+  VileR`),m.forEach(a),this.h()},h(){G(l,"href","https://int10h.org/oldschool-pc-fonts/")},m(t,o){c(t,e,o),i(e,y),c(t,f,o),c(t,r,o),i(r,b),c(t,h,o),c(t,s,o),i(s,v),i(s,l),i(l,x),i(s,A)},p:w,i:w,o:w,d(t){t&&a(e),t&&a(f),t&&a(r),t&&a(h),t&&a(s)}}}class R extends P{constructor(e){super(),q(this,e,null,J,F,{})}}export{R as default};
